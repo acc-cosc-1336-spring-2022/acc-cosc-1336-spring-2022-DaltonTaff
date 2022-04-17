@@ -1,2 +1,2 @@
-list1 = list()
-print(list1)
+dictionary['widget1']  += 5
+print(dictionary1)
